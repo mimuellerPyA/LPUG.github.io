@@ -3,37 +3,21 @@ title: Leipzig Python User Group
 body:
 
 
-# Treffen am 13. Juni 2017 19:00 Uhr
+# Treffen am 08. August 2017 19:00 Uhr
 
 
-Wir treffen uns am 13. Juni 2017 um 19:00 Uhr wieder im
-[Basislager](http://basislager.co/).
-Aktuelle Informationen auch auf unser [Meetup-Seite](https://www.meetup.com/de-DE/Leipzig-Python-User-Group).
-
-Unser Vortrag diesen Monat:
-
-**Cython**  
-*Stefan Behnel*
-
-Cython ist ein optimierender statischer Complier für Python, der das
-Erstellen von C-Erweiterungen für Python erleichtert.
-Als Quelle kann (1)  reines Python, (2) Python mit Typ-Deklarationen
-(Cython-spezifisch) oder (3) C-Quelltext dienen.
-
-Der Cython-Kern-Entwickler Stefan Behnel stellt Cython vor.
-Er zeigt an praktischen Beispielen wie leicht es ist mit Cython zu arbeiten.
-Es werden gerne tiefgehende Fragen zu Anwendung und Funktionsweise von Cython beantwortet.
-
+Wir treffen uns um 19:00 Uhr wieder im [Basislager](http://basislager.co/).
+Diesen Monat steht noch kein Thema fest. Themenvorschläge sind immer willkommen.
+Weitere aktuelle Informationen und Diskussionen sind auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/Leipzig-Python-User-Group).
 
 Die Usergroup-Treffen finden jeden zweiten Dienstag im Monat statt.
-Themenvorschläge sind immer willkommen.
 
 Datum                             | Thema
 --------------------------------- | -----------------------------------------------------------------------
-13. Juni 2017                     | Cython
-11. Juli 2017                     | noch offen
 8. August 2017                    | noch offen
 12. September 2017                | noch offen
+10. October 2017                  | noch offen
+14. November 2017                 | noch offen
 
 <iframe class="osmap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//www.openstreetmap.org/export/embed.html?bbox=12.37170249223709%2C51.331293729161814%2C12.37524300813675%2C51.33285563011453&amp;layer=mapnik&amp;marker=51.33207468628904%2C12.37347275018692" style="border: 1px solid black"></iframe>
 
